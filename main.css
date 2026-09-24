@@ -3,8 +3,8 @@ margin:0;
 padding:0;
 }
 #container
-{ border:1px solid blue;
-background:gray;
+{ border:1px solid #0000EE;
+background:#00FF7F;
 float:left;
 top: 60px;
 text-indent:0px;
@@ -28,8 +28,8 @@ text-decoration:none;
 padding:.3em 6px;
 }
 #container li a:hover
-{color:white;
-background:orange;
+{color:#FFFFFF;
+background:#0000CD;
 }
 #container li ul
 {position:absolute;
@@ -41,5 +41,5 @@ display:block;
 }
 #container ul li ul li{
 width:100%;
-border:1px solid green
+border:1px solid #00FF00
 }
